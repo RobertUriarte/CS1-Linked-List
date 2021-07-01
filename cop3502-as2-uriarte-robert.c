@@ -3,7 +3,6 @@
 #include <string.h>
 //#include "leak_detector_c.h"
 
-//Credit Professor Gerber
 void remove_crlf(char *s)
 {
     char *t = s + strlen(s);
@@ -17,7 +16,6 @@ void remove_crlf(char *s)
     }
 }
 
-// Credit Professor Gerber
 int get_next_nonblank_line(FILE *ifp, char *buf, int max_length)
 {
     buf[0] = '\0';
