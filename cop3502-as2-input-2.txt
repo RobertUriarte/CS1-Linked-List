@@ -1,0 +1,10 @@
+9
+2 misfortune 4 1 2
+4 mishap 7 3 3
+6 futility 5 2 3
+1 failure 10 3 2 
+7 sisyphean 9 2 4 
+3 doomed 8 2 1
+8 miasma 34 10 5
+9 nemesis 2 1 1
+5 tragedy 59 7 1

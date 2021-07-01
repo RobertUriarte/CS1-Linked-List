@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1614359635 source:c:\users\robzt\desktop\code\assignment 2\cop3502-as2-uriarte-robert\leak_detector_c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leak_detector_c.h"
+
+1614359643 c:\users\robzt\desktop\code\assignment 2\cop3502-as2-uriarte-robert\leak_detector_c.h
+
+1615395163 source:c:\users\robzt\desktop\code\assignment 2\cop3502-as2-uriarte-robert\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leak_detector_c.h"
+
+1615395649 source:c:\users\robzt\desktop\code\assignment 2\cop3502-as2-uriarte-robert\cop3502-as2-uriarte-robert.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leak_detector_c.h"
+
+1612828127 source:c:\users\robzt\desktop\code\assignment 1\leak_detector_c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leak_detector_c.h"
+
+1611808481 c:\users\robzt\desktop\code\assignment 1\leak_detector_c.h
+
+1615873557 source:c:\users\robzt\desktop\code\assignment 2\cop3502-as2-uriarte-robert.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1615874421 source:c:\users\robzt\desktop\code\assignment 2\leak_detector_c.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leak_detector_c.h"
+
+1615874430 c:\users\robzt\desktop\code\assignment 2\leak_detector_c.h
+

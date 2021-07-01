@@ -1,0 +1,6 @@
+5
+4 mishap 7 3 3
+6 futility 5 2 3
+1 failure 10 3 2 
+7 sisyphean 9 2 4 
+3 doomed 8 2 1
